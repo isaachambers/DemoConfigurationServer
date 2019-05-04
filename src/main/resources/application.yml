@@ -14,6 +14,7 @@ spring:
           - 'orderservice*'
           - 'searchservice*'
           - 'stockservice*'
+          - 'authenticationservice*'
           
   security:
     user:
